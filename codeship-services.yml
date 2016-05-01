@@ -1,0 +1,4 @@
+app:
+  build:
+    image: topiaruss/alpine-sshd
+    dockerfile_path: Dockerfile
